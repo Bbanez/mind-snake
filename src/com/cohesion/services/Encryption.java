@@ -8,8 +8,8 @@ import org.apache.commons.codec.binary.Base64;
 
 public class Encryption {
 
-	private static final String key 		= "__16_BYTE__KEY__";
-	private static final String initVector 	= "__16_BYTE__VEC__";
+	private static final String key 		= "__16_BYTES_KEY__";
+	private static final String initVector 	= "__16_BYTES_VEC__";
 
 	public String encrypt(String data) {
 		try {
