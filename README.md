@@ -87,7 +87,7 @@ cd /path/to/mind-snake/
     java -jar mind-snake.jar
 ```
 
-## Development Note ##
+## Note ##
 
 - Application was tested using JDK 11 and it is working with some warnings with BASE64 deprecated.
 - **users.collection** and **scores.collection** are used for storing data and they are encrypted using AES128 with random KEY and VECTOR. They are stored in application JAR as a static value, therefore they are not safe since decompiling JAR will reveal there values.
