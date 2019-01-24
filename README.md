@@ -6,7 +6,7 @@ This is a simple Snake game created using Processing core and Java. It was creat
 
 ## About development ##
 
-As already said, game was developed using Processing core libraries and Java inside Eclipse IDE. Since Processing is not developed to be used for creating complex GUIs, this project turned out to be very complex and complicated but at the same time very interesting. First of all project started with a blank page, therefore first step was to create typical components like buttons, input fields, layout managers and so on. Next step was to create game area and game mechanics. I decided to divide game area into grid and create tick engine that will move snake in the game area and apply game rules. After this was done, I created system that will manage user profiles and scoring system that will keep track of all games that user have played, best score, play time and so one. With this done, only thing left was to make music and sound effects and to design elements to look decent. In my [blog](www.branislav.xyz) I will go into detail about game development.
+As already said, game was developed using Processing core libraries and Java inside Eclipse IDE. Since Processing is not developed to be used for creating complex GUIs, this project turned out to be very complex and complicated but at the same time very interesting. First of all project started with a blank page, therefore first step was to create typical components like buttons, input fields, layout managers and so on. Next step was to create game area and game mechanics. I decided to divide game area into grid and create tick engine that will move snake in the game area and apply game rules. After this was done, I created system that will manage user profiles and scoring system that will keep track of all games that user have played, best score, play time and so one. With this done, only thing left was to make music and sound effects and to design elements to look decent. In my [blog](https://www.branislav.xyz) I will go into detail about game development.
 
 ## How to play ##
 
@@ -16,7 +16,7 @@ Here is a short video showing you how to use the game.
 
 ## Download Executable ##
 
-To run game on you computer you will need to download an executable from [Dropbox](Dropbox) and then follow steps bellow for your system. **Please make sure to run and use only JARs provided on this github page!**
+To run game on you computer you will need to download an executable from [Dropbox](https://www.dropbox.com/sh/ef16jxg1d5s8t3k/AAA1fIa9ALpNPWiYWWQ4xK7Ia?dl=0) and then follow steps bellow for your system. **Please make sure to run and use only JARs provided on this github page!**
 
 ### Windows ###
 
@@ -29,7 +29,7 @@ To run game on you computer you will need to download an executable from [Dropbo
     Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 ```
 
-- After this unpack the **.zip** downloaded from [Dropbox](Dropbox) and double click on the **app_windows.bat** or **mind-snake.jar**.
+- After this unpack the **.zip** downloaded from [Dropbox](https://www.dropbox.com/sh/ef16jxg1d5s8t3k/AAA1fIa9ALpNPWiYWWQ4xK7Ia?dl=0) and double click on the **app_windows.bat** or **mind-snake.jar**.
 - If previous step did not work, open *cmd* or *PowerShell* and move to directory where you have unpacked the **ZIP** file.
 
 ```cmd
@@ -58,7 +58,7 @@ cd /path/to/mind-snake/
     Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 ```
 
-- After this unpack the **.zip** downloaded from [Dropbox](Dropbox) to **Documents** and try to double click on **app_linux**.
+- After this unpack the **.zip** downloaded from [Dropbox](https://www.dropbox.com/sh/ef16jxg1d5s8t3k/AAA1fIa9ALpNPWiYWWQ4xK7Ia?dl=0) to **Documents** and try to double click on **app_linux**.
 - If this does not work, open **terminal** and run:
 
 ```bash
@@ -78,7 +78,7 @@ cd /path/to/mind-snake/
     Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 ```
 
-- After this unpack the **.zip** downloaded from [Dropbox](Dropbox) to **Documents** and try to double click on **app_mac**. System will tell you that application is from unknown source.
+- After this unpack the **.zip** downloaded from [Dropbox](https://www.dropbox.com/sh/ef16jxg1d5s8t3k/AAA1fIa9ALpNPWiYWWQ4xK7Ia?dl=0) to **Documents** and try to double click on **app_mac**. System will tell you that application is from unknown source.
 - If this does not work, open **terminal** and run:
 
 ```bash
